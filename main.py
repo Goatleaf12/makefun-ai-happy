@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""ai-happy-01 entry for make.fun entry for make.fun.
+"""ai-happy-01 entry for make.fun.
 
 The image is a single file shipped in this repository (entry.png).
 This program copies it byte-for-byte to the output directory, so two runs
